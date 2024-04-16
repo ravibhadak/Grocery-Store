@@ -1,0 +1,11 @@
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\bin\Debug\Database.mdb
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe.config
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\bin\Debug\Grocery Store.exe
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\bin\Debug\Grocery Store.pdb
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\bin\Debug\Grocery Store.xml
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\obj\x86\Debug\Grocery_Store.Form1.resources
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\obj\x86\Debug\Grocery_Store.Resources.resources
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\obj\x86\Debug\Grocery Store.vbproj.GenerateResource.Cache
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\obj\x86\Debug\Grocery Store.exe
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\obj\x86\Debug\Grocery Store.xml
+D:\Z_project sem4\vb.net\Grocery Store\Grocery Store\obj\x86\Debug\Grocery Store.pdb
